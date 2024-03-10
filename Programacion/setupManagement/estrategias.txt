@@ -1,0 +1,24 @@
+
+rollback
+
+¿what is RFC?
+that is a normal or strategy for to apply change in a system
+
+
+
+
+¿what is ansible?
+
+
+ansible
+
+
+
+Chef
+
+
+
+
+Puppet
+
+

@@ -1,0 +1,17 @@
+touch: crear un archivo
+mkdir: crear una carpeta 
+rm: elminar archivo 
+rmdir: elminar carpeta vacia 
+ls: ver lista
+cd: moverme entre  carpetas 
+vim nombre_del_archivo: 
+nano nombre_del_archivo:
+
+|(¿pai?): anidar comandos
+sed 's/busqueda/reemplazo/g' archivo:
+awk '/patrón/' archivo
+awk '{print $1}' archivo
+cat archivo.txt
+cat archivo1.txt archivo2.txt
+cat archivo1.txt archivo2.txt > nuevo_archivo.txt
+

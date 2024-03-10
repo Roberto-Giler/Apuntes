@@ -1,0 +1,3 @@
+SCOPE
+Es alcance de una variable tiene en el codigo.
+

@@ -1,0 +1,1 @@
+La normalizacion de datos es las regals y mecanicmos que se utlizan para dar un formato en comun a los datos.

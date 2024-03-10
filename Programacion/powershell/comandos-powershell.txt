@@ -1,0 +1,53 @@
+#COMANDOS POWERSHELL
+
+Get-Help: Este cmdlet te proporciona información detallada sobre cómo usar otros cmdlets, funciones y scripts en PowerShell. Por ejemplo, puedes usar Get-Help Get-Process para obtener ayuda sobre cómo usar el cmdlet Get-Process.
+
+Get-ChildItem (dir): Este cmdlet se utiliza para obtener una lista de archivos y directorios en una ubicación específica del sistema de archivos.
+
+Set-Location (cd): Se utiliza para cambiar el directorio actual en la sesión de PowerShell.
+
+Get-Process: Proporciona una lista de procesos en ejecución en el sistema.
+
+Select-Object (select): Se utiliza para seleccionar y proyectar propiedades específicas de los objetos devueltos por otros cmdlets.
+
+Where-Object (where): Se utiliza para filtrar objetos en función de una condición específica.
+
+Write-Output (echo): Se utiliza para mostrar datos en la consola de PowerShell.
+
+New-Item: Crea un nuevo archivo, directorio u otro elemento en el sistema de archivos.
+
+Remove-Item (rm): Elimina un archivo o directorio.
+
+
+
+Set-ExecutionPolicy RemoteSigned: Para darle permisos a powershell para ejecutar script
+
+#Declaracion de variables
+
+$materia = "Infraestructura"
+$n1 = 12
+$n2 = "12"
+
+#ESTRUCTURAS POWERSHELL
+
+#Sentencia IF
+if (test1){
+    statement list 1
+}
+elseif (test2){
+    statement list 2
+}
+else{
+    statement list 3
+}
+
+#Sentencia For
+for (Init; Condition; Repeat){
+    Statement list
+}
+
+#Sentencia While
+while (condition){
+    statement list
+}
+

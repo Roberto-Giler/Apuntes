@@ -1,0 +1,8 @@
+var
+El scope es su contexto de ejecución (en otras palabras, la variable vive dentro de la función en la cual es declarada). El scope de una variable declarada fuera de una función es global.
+
+let
+Gracias a esta se introduce el scope de bloque. Las variables asignadas con let solo son accesibles dentro de su bloque. Recordemos que el bloque es aquella porción de código que se encuentra definida entre llaves ({}), por ejemplo, dentro de un bloque if:
+
+const
+Su comportamiento es igual que el de let, salvo por la diferencia de que no se puede reasignar su valor. Su correcto uso minimiza el estado de mutación.

@@ -1,0 +1,7 @@
+get-help: Brinda informacion sobre cmdlets, modulos y otros.
+update-help: Actualiza el repositorio de ayuda.
+get-command: Es usado para buscar un cmdliet, ademas es usado para obtener informacion sobre los modulos disponibles en el sistema .
+get-member: Muestra las propiedades y metodos de un objeto.
+PSVersionTable: Una variable que contiene informacion sobre la version de PowerShell que se esta usando.
+
+

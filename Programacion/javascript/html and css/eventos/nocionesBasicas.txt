@@ -1,0 +1,9 @@
+Arrow functions
+
+
+Funciones como parámetros
+
+Callbacks
+El callback es el nombre que se le suele dar a funciones que son utilizadas como parámetros de otra función.
+
+asincronía

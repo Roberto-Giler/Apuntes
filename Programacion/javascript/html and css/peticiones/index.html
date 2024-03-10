@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 2</title>
+</head>
+<body>
+    
+    <header>
+
+    </header>
+
+    <main>
+
+
+        <p>
+            Vimos Metodos math
+        </p>
+    </main>
+
+    <footer>
+        <script>
+            // prompt: pide al usuario ingresar infromacion
+            //alerta salta una pantalla al usuario
+            //confirmacion similar a prompt pero solo booleano
+
+            nombre=prompt('coloque su nombre')
+
+            document.body.innerHTML='<p> rebuscado ${nombre} <\p>'
+            
+            
+            num1=23
+            num2=33
+            num3=33
+            num4=45
+            nummeros=[num1,num2,num3,num4]
+
+            const maxNum1=Math.max( num1,num2, num3, num4)
+            const minNum1=Math.max( num1,num2, num3, num4)
+            
+            const maxNum2=Math.max(...nummeros)
+            const minNum2=Math.max(...nummeros)
+            maxNum1===maxNum2
+
+            const valorRamdom=Math.random() //Obtiene un valor ramdom entre el 0 y el 1
+            const valorRamdomEntero=Math.floor(Math.random()) //floor redondea
+            
+
+            // for [of] iteracion  dentro de un array y  .foreach() como metodo para iterar --- similar a in de python
+            let arrayNombres=['gregory', 'adriana','denis', 'roberto']
+            
+            for(let nombre of arrayNombres){
+                console.log(nombre)
+            }
+
+
+            array.forEach(nombre => {
+                console.log(nombre)
+            });
+
+            //objetos
+            let myObjs={
+                a: 1,
+                b: 2,
+                c: 3
+
+            }
+            for(let Clave in myObjs){
+                console.log(clave,myObjs[clave]) //myObjs[clave] accede al valor de clave o key
+            } // in para interar sobre un diccionario
+          
+        let datos=[
+            {
+                email:'@ sssss',
+                numero: 'sdsdsd'
+            },
+            {
+                email:'@ sssss',
+                numero: 'sdsdsd'
+            },
+            {
+                email:'@ sssss',
+                numero: 'sdsdsd'
+            }
+        ]    
+        let objArray=[
+            {
+                name:'Fabian',
+                subject: 'FEII',
+                ...datos[1]
+            },
+            {
+                name:'ROBERTO',
+                subject: 'FEII'
+            },
+            {
+                name:'Carlos',
+                subject: 'FEII'
+            }
+        ]
+        let 
+
+
+        </script>
+
+
+    </footer>
+</body>
+</html>
