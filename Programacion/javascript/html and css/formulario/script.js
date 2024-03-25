@@ -45,8 +45,6 @@ formSimulacion.addEventListener("submit",(e)=>{
     
     const nombre=document.querySelector("#for-simulacion #nombre")
     const apellido=document.querySelector("#for-simulacion #apellido")
-    const apellido=document.querySelector("#for-simulacion #apellido")
-
 
 })
 

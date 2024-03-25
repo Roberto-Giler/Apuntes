@@ -1,0 +1,4 @@
+JSON es un formato de texto sencillo para el intercambio de datos. Como su nombre lo indica, su implementación deviene de la notación de objetos de JavaScript (JavaScript Object Nootation). Está compuesto por clave valor, únicamente que es el caso de JSON, las propiedades van siempre entre comillas dobles. Esto último es un requisito esencial para su correcto funcionamiento.
+
+UTILIDAD
+Organizacion de datos de manera simple y ordenada.

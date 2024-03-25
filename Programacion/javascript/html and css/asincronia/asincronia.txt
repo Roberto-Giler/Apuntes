@@ -1,0 +1,8 @@
+Existen 2 tipos de asincronismo:
+
+    Concurrencia: cuando las tareas pueden comenzar, ejecutarse y completarse en períodos de tiempo superpuestos, en donde al menos dos hilos están progresando
+    Paralelismo: cuando dos o más tareas se ejecutan exactamente al mismo tiempo.
+
+
+
+

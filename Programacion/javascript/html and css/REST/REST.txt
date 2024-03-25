@@ -1,0 +1,19 @@
+Arquitectura para servicios
+
+caracteristica fundamentales
+
+1- Divide la aplicacion en 2.
+2- Ubicacion de recursos.
+3- Stateless.
+4- Cacheable. lado del cliente
+
+
+formatos
+la informacion viaja por formatos JASON,RAW, MXLT, TEXT.
+header
+
+
+metodo head permite solicitar la fecha de la ultima modificacion
+
+
+

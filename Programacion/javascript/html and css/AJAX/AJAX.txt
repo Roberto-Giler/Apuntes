@@ -1,0 +1,10 @@
+AJAX (Asynchronous JavaScript and XML) es un conjunto de tecnologías que se utilizan para crear aplicaciones web asíncronas. Esto las vuelve más rápidas y con mejor respuesta a las acciones del usuario.
+
+Se produce un evento en una página web (se carga la página, se hace clic en un botón)
+JavaScript crea un objeto XMLHttpRequest
+El objeto XMLHttpRequest envía una solicitud a un servidor web
+El servidor procesa la solicitud.
+El servidor envía una respuesta a la página web.
+La respuesta es leída por JavaScript.
+JavaScript realiza la acción adecuada (como la actualización de la página)
+

@@ -14,5 +14,9 @@ string1.split()
 
 
 
+//Trim() elemina los espacios en blancos en los extrenos de un string
 
+
+
+//replaceAll(valorAgre,valorRem)
 

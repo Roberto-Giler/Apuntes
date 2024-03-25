@@ -20,11 +20,18 @@ window.addEventListener("load",()=>{
 
     async function fetxhCarrton(){
         const resp=await fetch(url)
-        console.log(resp)
-        
+        console.log(resp.json)
     }
 
+    fetch('URI',"Object")
+
+
+
+
 })
+
+
+
 
 
 

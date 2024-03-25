@@ -1,0 +1,22 @@
+
+HyperText Transfer Protocol, o en castellano: protocolo de transferencia de hipertexto, es un protocolo que sirve para gestionar la comunicación entre dos máquinas conectadas a una red. En donde una pide por un contenido específico y la otra se encarga de responder a dicha solicitud.
+
+PREGUNTAS PARA REFELEXIONAR
+¿Será que el tipo de petición al servidor es el mismo cuando publicamos una foto en nuestra cuenta de Instagram que cuando queremos ver una foto de otra cuenta que no es nuestra?
+Cuando iniciamos sesión en nuestro correo electrónico, ¿nuestra contraseña está protegida desde que sale de nuestra computadora hasta que llega al servidor?
+Cuando queremos editar solo nuestro nombre en el perfil de LinkedIn, ¿la información que no modificamos se mantiene o se sobrescribe nuevamente por más que sea la misma?
+¿Cuál será la diferencia entre ocultar alguna foto de nuestro perfil de Facebook y borrarla?
+
+Metodos de peticion más utilizados 
+
+
+1- GET: Solicitar la informacion del servidor. Viaja a través de la URL.
+2- POST: Enviar / Crear datos al servidor.
+3- DELETE: Borrar un recurso que se encuentre en el servido. No Viaja a través de la URL.
+
+4- PUT: Remplaza TODA la informacion actual de un recurso del servidor 
+5- PATCH: Modificar parcialmente un recurso en el servidor.
+
+
+
+
