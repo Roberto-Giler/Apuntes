@@ -1,0 +1,27 @@
+Random number does not mean differtente number every time, instead mean that can not be predicted logically.
+
+Pesudo Ramdom and True Ramdom 
+
+
+If there is a program to generate random number it can be predicted, thus it is not truly random.
+
+Random numbers generated through a generation algorithm are called psPSEUDO RAMDOM.
+
+Can we make truly random numbers?
+
+Yes. In order to generate a truly random number on our computers we need to get the random data from some outside source.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
