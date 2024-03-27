@@ -1,0 +1,2 @@
+Seaborn is a library that uses Matplotlib underneath to plot graphs. 
+
