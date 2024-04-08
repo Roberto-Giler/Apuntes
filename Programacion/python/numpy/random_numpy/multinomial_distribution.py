@@ -25,4 +25,5 @@ for i in range(len(array_multinomial)):
 if (countO+countNo==100):
     print("se completo las 100")
 print(countO)
+print(countNo)
 
