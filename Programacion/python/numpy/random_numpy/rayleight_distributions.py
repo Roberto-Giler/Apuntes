@@ -12,6 +12,6 @@ nparray_rayleight=random.rayleigh(scale=1,size=10000)
 
 sns.displot(nparray_rayleight)
 
-plt.savefig('./numpy/random_numpy/rayleight_distributions.jpg.jpg',format='jpg')                                    
+plt.savefig('./numpy/random_numpy/rayleight_distributions.jpg',format='jpg')                                    
 
 #At unit stddev and 2 degrees of freedom rayleigh and chi square represent the same distributions                                          

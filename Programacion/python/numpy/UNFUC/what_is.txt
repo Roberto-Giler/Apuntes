@@ -1,0 +1,15 @@
+what is UNFUC?
+UNFUC meaning "Universal Funntions" and are Numoy Funntions that operate on the ndarray object.
+
+why use UNFUC?
+
+UNFUCS are used ´to implement vectorization in Numpy wich is way faster then iterating over elements.
+
+
+                                      
+                                      
+                                                                            
+                                                                                                                  
+                                                                                                                                                        
+
+
