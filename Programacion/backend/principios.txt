@@ -1,0 +1,3 @@
+1.-Una clase debe tener una funcionalidad unica.
+
+2.-Instaciar una clase con el tipo de clase abstracta mas alto
