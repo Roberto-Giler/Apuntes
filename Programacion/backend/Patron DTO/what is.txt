@@ -1,0 +1,5 @@
+Una de las problemáticas más comunes cuando desarrollamos aplicaciones es el diseño de la forma en que la información debe viajar desde la capa de servicios (o desde el controlador) hasta las aplicaciones o capa de presentación. Muchas veces, por desconocimiento, utilizamos las clases de entidades para retornar los datos. Esto ocasiona que devolvamos más datos de los necesarios o que incluso tengamos que ir en más de una ocasión a la capa de servicios para recuperar los datos requeridos.
+
+Para facilitarnos este trabajo existe el patrón DTO.
+
+DTOs or Data Transfer Objects are objects that carry data between processes in order to reduce the number of methods calls. The pattern was first introduced by Martin Fowler in his book EAA.

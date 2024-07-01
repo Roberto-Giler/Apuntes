@@ -1,0 +1,3 @@
+proxy has the function of being an intermediary.
+
+Entonces, podemos mencionar que es beneficioso utilizar el patrón proxy cuando queremos agregar funcionalidad adicional sin modificar los servicios actuales.

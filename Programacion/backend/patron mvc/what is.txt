@@ -1,0 +1,5 @@
+divide el proyecto en tres componentes logicos
+
+MODELOS 
+VISTAS
+CONTROLADORES

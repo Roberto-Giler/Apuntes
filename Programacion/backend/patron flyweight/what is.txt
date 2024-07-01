@@ -1,0 +1,12 @@
+structural Patron 
+
+it is use when there is a needly of instantiate a object several time and the object few have attribute.
+
+how do it do?
+the patron share information of the object to  other objets. this allow to reduce the used memory by the object.
+
+Advantages
+Reduce the used memory.
+
+Disadvantages
+Requiere more time to process him
