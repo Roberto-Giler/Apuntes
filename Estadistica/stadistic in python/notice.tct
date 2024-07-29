@@ -1,0 +1,4 @@
+Weighted mean is available with NumPy. For weighted median, we can use the specialized
+package wquantiles:
+    np.average(state['Murder.Rate'], weights=state['Population'])
+    wquantiles.median(state['Murder.Rate'], weights=state['Population'])
