@@ -84,3 +84,6 @@ print(array)
 
 
 print("ddd"*2)
+
+
+print(0.98**200)
