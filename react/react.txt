@@ -1,0 +1,25 @@
+what is React?
+    React is a declarative and flexible library created by facebbok to manage user interface.
+    it was create at 2011
+    it was free in 2013
+
+What is the React propositive?
+    Is to manage usuario interface ans also it is use to develop web page of a single page
+    called SPA
+
+How do React work?
+    the user interfaces on React are structure by small pieces of code called COMPONENTS
+    use a file type jsx
+
+What are the advantage to using react?
+     the main advantage is that its use  allow a application charge more fast
+
+	implementation of a power render systen 
+	integration jsx	
+
+
+two of the framework most used in the industry are:
+    angulars 2010
+    Vue.js 2014
+    
+

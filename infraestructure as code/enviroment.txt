@@ -1,0 +1,12 @@
+terraform: is a software of free code developed by HashiCrop.
+AWS CloubFormation: is the native solution of aws to supply resources in the cloud. 
+Azure resource manager:  is the native tool of azure to implement infraestructure as code.
+Google Cloub Deployment manager: Is the native solution for the plataform of google cloud.
+Ansible: is a automatization tool of infraestructure as code created by Red hat. manage how are relation its componentes and the system.
+
+
+
+
+glosary
+
+    on-premise: own data center

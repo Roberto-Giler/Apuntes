@@ -1,0 +1,7 @@
+what is idempotencia?
+    is the capacity to realize a operation without the outcome
+
+characteristics:
+    Modify the origin file
+    Easy documentable 
+

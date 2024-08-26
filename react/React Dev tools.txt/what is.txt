@@ -1,0 +1,7 @@
+What is React developer tools?
+    th React developertools are a extensio for browser tools disensed for library react
+        these install a inspector the what will show:
+            The components 
+            The performance
+            
+

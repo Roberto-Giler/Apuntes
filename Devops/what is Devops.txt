@@ -1,0 +1,16 @@
+What is devops ?
+	.-Is a combination of culture, practice and tools that increase the speed to a organization developer application and service
+	.-Is based on the communication between of Developee and OPEration
+	.- This team have as purpose the automatization of task that historically were slowly and handles. 
+	.-A person can to do task that normally would require of various person.
+
+
+characteristics
+	mainly characteristics
+		1.-Automatization
+		2.-Monitor 
+			Version crontoler-contenedor-orquestedores
+			Aplication monitor-Sever monitor-setting manage-soft integrations-soft deploy
+			Test automatization 
+			laC
+			Clob computations

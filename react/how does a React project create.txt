@@ -1,0 +1,26 @@
+How does a React project create?
+    There are two way to create a project of React, well three way:
+        1.-To click and keyboard. (Deprecated)
+        2.-Create React App (CRA).
+        3.-Vite. (a option relatively new).
+
+2.- CRA
+    Some tools that are by default pre-setting are:
+        Babel
+        ESlint 
+        Webpack
+        jest
+    
+    requeried:
+        a.- To have install (NODE.js) npm
+
+3.- Vite
+    Some tools that coming by default are:
+        Esbuild is like Babel and webpack but better
+        Soport by Typescript
+        Soport by pre-processador of CSS by default
+        Hot Module Replacement (HMR) Vite detect the change in our code and to realize the change just that part
+
+what are the difference between CRA and Vite?
+    
+    Vite have less extra tools, but is very fast very fast than CRA

@@ -1,0 +1,7 @@
+firts, how do devops works?
+    Mesure and monitor
+        reduce
+            tim means of fail
+        increase the communication
+
+        

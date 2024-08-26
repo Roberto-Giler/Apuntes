@@ -1,0 +1,10 @@
+There are two paradigms?
+    Imperative paradigm: Is focus in the "HOW"
+    Declarative paradigm: Is focus in the "WHAT"
+
+
+stage:
+    origin 
+    process
+    destiny
+

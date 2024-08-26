@@ -1,0 +1,14 @@
+is a extension of ECMASCRIPT
+
+what do JSX mean?
+	JavaScript XML
+
+
+since the version of v17.0 react, neither is necesary to use the react for the implementation of jsx.
+
+to transpilar JSX to JavaScript is posible to use various transpilator:
+
+	React JSX
+	JSX-transform
+	Babel
+

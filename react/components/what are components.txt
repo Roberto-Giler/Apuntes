@@ -1,0 +1,13 @@
+What is a component?
+A component is a class or fuction to return a element HTML.
+
+Characteritics:
+	Nest
+	Reuse
+	Customización 
+	Life Cycle
+
+There are two ways to create a components in React these are:
+	By class
+	By Function
+	

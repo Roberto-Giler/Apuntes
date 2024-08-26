@@ -1,0 +1,20 @@
+what is infraesture infraestuture (IaC) code? ¿(notice I or I)?
+    is the manage of the infraestructure throught of template that it can to be ***versioned***
+
+    idempotencia principles
+
+    Automatization of the administration 
+
+    ¿porring? setting
+
+setting file
+
+control of versioned
+
+split in moduls
+
+
+process
+    1.- to define and describe the infraestructure specification 
+    2.-  the files are create in a repository
+    3.- the platafform take the desicion needly to create and set the infraestructure recurses
