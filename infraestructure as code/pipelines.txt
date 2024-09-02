@@ -1,0 +1,3 @@
+¿What is a pipelines?s
+    Is a code unity it was generate by CloudFormation for the creation ordered of the resources
+

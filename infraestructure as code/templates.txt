@@ -1,0 +1,5 @@
+¿What are templates?
+    Is a text file with format JSON, describe how we are going to create that resources that we want together with its properties.
+
+
+
